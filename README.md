@@ -1,4 +1,9 @@
-# Cypress - API - Serverest
+# Automação de API Rest com Cypress
+## Projeto de exemplo da palestra Virada da Qualidade
+
+Projeto desenvolvido durante a palestra da Virada da Qualidade promovido pela Iterasys
+Link temporário: https://www.youtube.com/watch?v=1oZLHtO12_I
+
 ## Projeto de exemplo na API Serverest - Virada da Qualidade
 
 ### Serverest:
